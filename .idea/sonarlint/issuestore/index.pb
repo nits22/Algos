@@ -1,0 +1,27 @@
+
+T
+$src/main/java/Array/nextGreater.java,5/e/5e1db15d6a8e75a85ce940ea25ae87c75d49c6d8
+a
+1src/main/java/Practice/FindNextLargestNumber.java,d/9/d903c2c8852845f70a72aefcb4b0142448c677eb
+d
+4src/main/java/LinkedList/ReverseLinkedListStack.java,6/2/62e509f754f920188e8885763b1b6f2d6a1fe407
+X
+(src/main/java/LinkedList/RemoveLoop.java,2/a/2a7d0047aa388af084107ef3dee7ec360b60f466
+P
+ src/main/java/Trees/MinHeap.java,e/5/e5e77398a21c149542e9aaa0ef9d703ce770d723
+c
+3src/main/java/Trees/SpiralLevelOrderTranversal.java,a/0/a08d7e42cd6ab9737d3d97b265bc72d5c8463902
+Y
+)src/main/java/Practice/BiggestNumber.java,8/5/85d05903845a6a13229e7f868df4b63c14bd0eb5
+`
+0src/main/java/Array/MinimumSwapsToSortArray.java,e/3/e3d21417dbdb4301800d90a55c6d3f312bf4ad3f
+O
+src/main/java/Practice/GFG.java,9/3/936e9a2eea7cba81f5b1e3d8476325eabdc2dda7
+k
+;src/main/java/LinkedList/ReverseLinkedListBetweenNodes.java,6/7/672237e9548f2cee244c50e3256fb13f7a875506
+e
+5src/main/java/LinkedList/ReverseKNodesLinkedList.java,e/c/ece73ce2efc6f7a134c97103811db989781ee5f1
+a
+1src/main/java/stacks/ReverseStringUsingStack.java,f/4/f48b2e1deecc2fd7b905f381bd951c7691791c32
+e
+5src/main/java/stacks/CloneStackWithoutExtraSpace.java,e/1/e148f4a00343a78b8dc28000d399120998cb5f64

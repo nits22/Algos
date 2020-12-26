@@ -1,0 +1,10 @@
+
+v
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(าะ8ลย๋’ส.
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(์้•ฑ๙ÿÿÿÿ8ลย๋’ส.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(พร๚ÿÿÿÿ8ลย๋’ส.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(รถฺ8ลย๋’ส.
+m
+java:S1149#"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(าะ8ลย๋’ส.
+]	java:S125I"<This block of commented-out lines of code should be removed.(เ๔ฒ•ýÿÿÿÿ8ลย๋’ส.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ลน์๛ÿÿÿÿ8ลย๋’ส.

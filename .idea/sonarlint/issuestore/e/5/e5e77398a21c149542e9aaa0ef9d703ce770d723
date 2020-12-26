@@ -1,0 +1,16 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õúü§8ÇÂë’Ê.
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8ÇÂë’Ê.
+u	java:S116"TRename this field "heap_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò©”¬şÿÿÿÿ8ÇÂë’Ê.
+T
+java:S1197 "8Move the array designator from the variable to the type.(Æ£¥88ÇÂë’Ê.
+j	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ûå8ÇÂë’Ê.
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(óÕ®üøÿÿÿÿ8ÇÂë’Ê.
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(Ù©È±8ÇÂë’Ê.
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÇÂë’Ê.
+[
+java:S1197–"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÇÂë’Ê.
+[	java:S106›"9Replace this use of System.out or System.err by a logger.(–æ¹—ûÿÿÿÿ8ÇÂë’Ê.
+?
+java:S1116Ÿ"Remove this empty statement.(ôŸìúÿÿÿÿ8ÇÂë’Ê.

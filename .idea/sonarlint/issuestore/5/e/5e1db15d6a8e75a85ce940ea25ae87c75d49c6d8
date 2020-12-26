@@ -1,0 +1,14 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Æ¼†²øÿÿÿÿ8ÃÂë’Ê.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀîéÉÿÿÿÿÿ8ÃÂë’Ê.
+U
+java:S1197
+"8Move the array designator from the variable to the type.(€„Á®8ÃÂë’Ê.
+U
+java:S1197"8Move the array designator from the variable to the type.(Ğ¸Ü¥8ÃÂë’Ê.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ïÛ»8ÃÂë’Ê.
+C
+java:S1659,"!Declare "min" on a separate line.(¥ˆÓóùÿÿÿÿ8ÃÂë’Ê.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ÇÂÍÄ8ÃÂë’Ê.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(¢èü8ÃÂë’Ê.
+]	java:S125K"<This block of commented-out lines of code should be removed.(áã­³ıÿÿÿÿ8ÃÂë’Ê.

@@ -1,0 +1,17 @@
+
+K
+java:S1751""5Remove this "break" statement or make it conditional.(›ûä·
+f
+java:S11492"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÏÐÇü
+S	java:S106/"9Replace this use of System.out or System.err by a logger.( Â¿¶þÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ì¦šË
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(½€èšúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(çÁ‹÷
+f
+java:S1149("PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(éñ‚¢
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Èª¼Ÿøÿÿÿÿ
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(’²Ñ¿ûÿÿÿÿ
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Èª¼Ÿøÿÿÿÿ
