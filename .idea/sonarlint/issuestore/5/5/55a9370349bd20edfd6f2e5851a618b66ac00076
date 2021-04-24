@@ -1,0 +1,25 @@
+
+>
+java:S1659"#Declare "r_arr" on a separate line.(Ï¤šêúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ó³üÿÿÿÿ
+N
+java:S1197B"8Move the array designator from the variable to the type.(õº§Ş
+k	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûªÑıÿÿÿÿ
+S
+java:S1197["8Move the array designator from the variable to the type.(×ÒÍàıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀîéÉÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ó³üÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(èÚÏ­ûÿÿÿÿ
+?
+java:S1659("$Declare "r_curr" on a separate line.(ûªÑıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÚÏ­ûÿÿÿÿ
+k	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûªÑıÿÿÿÿ
+=
+java:S1659""Declare "r_in" on a separate line.(¹ó³üÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(Ï¤šêúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İô¥›üÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çà¨Ùøÿÿÿÿ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(”¦ô„ûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¤šêúÿÿÿÿ

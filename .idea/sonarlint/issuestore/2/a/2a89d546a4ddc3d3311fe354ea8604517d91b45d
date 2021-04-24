@@ -1,0 +1,11 @@
+
+k	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¯ãøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õúü§
+9
+java:S1659"#Declare "right" on a separate line.(çùà¶
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ…Û°ûÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ºÊ÷‚üÿÿÿÿ
+S
+java:S11975"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(¦áâÇşÿÿÿÿ

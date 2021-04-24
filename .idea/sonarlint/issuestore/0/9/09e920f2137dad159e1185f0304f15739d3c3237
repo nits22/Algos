@@ -1,0 +1,17 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(èÔÍ—ıÿÿÿÿ8­…ó’ì.
+Z
+java:S1197"8Move the array designator from the variable to the type.(²²“¾ùÿÿÿÿ8şÔğ‘ì.
+v
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(µé¿Ã8™ˆ“ì.
+U
+java:S1197"8Move the array designator from the variable to the type.(èşÏ‘8şÔğ‘ì.
+R
+java:S1854"5Remove this useless assignment to local variable "n".(÷§€8Û¥‰“ì.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õúü§
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8şÔğ‘ì.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úÎìÖûÿÿÿÿ8şÔğ‘ì.
+C
+java:S1481"&Remove this unused "n" local variable.(÷§€8Û¥‰“ì.

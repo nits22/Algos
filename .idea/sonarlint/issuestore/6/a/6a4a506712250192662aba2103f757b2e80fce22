@@ -1,0 +1,15 @@
+
+Z
+java:S1197;"8Move the array designator from the variable to the type.(æ‘Ò©şÿÿÿÿ8ÂÂë’Ê.
+Z
+java:S1197G"8Move the array designator from the variable to the type.(©ßıÒşÿÿÿÿ8ÂÂë’Ê.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“œåá8ÂÂë’Ê.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(Ï¢éï8ÂÂë’Ê.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(”©‘8ÂÂë’Ê.
+Z
+java:S1197E"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8ÂÂë’Ê.
+Z
+java:S1197"8Move the array designator from the variable to the type.(µ‘Àµÿÿÿÿÿ8ÂÂë’Ê.
+X	java:S125T"<This block of commented-out lines of code should be removed.(Ààä8è©ÀÂì.
+Z
+java:S11971"8Move the array designator from the variable to the type.(¼Ú§Âøÿÿÿÿ8ÂÂë’Ê.

@@ -1,8 +1,8 @@
 
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀîéÉÿÿÿÿÿ8ÉÂë’Ê.
-Z
-java:S1197"8Move the array designator from the variable to the type.(Ó½æ¥üÿÿÿÿ8ÉÂë’Ê.
 @
 java:S1659
 "#Declare "cycle" on a separate line.(ëñ‚¶8ÉÂë’Ê.
+Z
+java:S1197"8Move the array designator from the variable to the type.(Ó½æ¥üÿÿÿÿ8ÉÂë’Ê.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8ÉÂë’Ê.

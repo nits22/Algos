@@ -77,3 +77,27 @@ public class nextGreater
         findNext(digits, n);
     }
 }
+
+
+/*    public static void main(String[] args) {
+        char digits[] = {'2', '1', '8', '7', '6', '5'};
+        int n = digits.length;
+        findNext(digits, n);
+    }
+
+    private static void findNext(char[] digits, int n) {
+        char lastNum = digits[n - 1];
+        int i;
+        for (i = n - 2; i >= 0; i--) {
+            if(digits[i] < lastNum) {
+                digits[n-1] = digits[i];
+                digits[i] = lastNum;
+                break;
+            }
+        }
+        Arrays.sort(digits, i + 1 , n);
+
+        for(int j = 0; j < digits.length; j ++) {
+            System.out.print(digits[j] + " ");
+        }
+    }*/

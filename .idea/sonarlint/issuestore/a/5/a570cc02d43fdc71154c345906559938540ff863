@@ -1,0 +1,18 @@
+
+X
+java:S21849"BCast one of the operands of this division operation to a "double".(³ä¨Ä
+X
+java:S21849"BCast one of the operands of this division operation to a "double".(³ä¨Ä
+k	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıàüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀîéÉÿÿÿÿÿ
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(²Áßş
+V
+java:S1854)";Remove this useless assignment to local variable "red_len".(ıàüÿÿÿÿ
+;
+java:S21859"%Remove this silly call to "Math.ceil"(³ä¨Ä
+;
+java:S21859"%Remove this silly call to "Math.ceil"(³ä¨Ä
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(µìúÿÿÿÿ
+G
+java:S1481)",Remove this unused "red_len" local variable.(ıàüÿÿÿÿ
