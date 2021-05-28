@@ -5,6 +5,8 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 
 /*https://www.programcreek.com/2014/05/merge-k-sorted-arrays-in-java/*/
+//https://www.youtube.com/watch?v=ptYUCjfNhJY
+
 class MergeKSortedArrayMinheap {
     public static int[] mergeKSortedArray(int[][] arr) {
         //PriorityQueue is heap in Java

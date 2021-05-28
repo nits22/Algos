@@ -2,20 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f304099f-ddf6-4e53-994e-5fa976fbc8fc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a7d0047aa388af084107ef3dee7ec360b60f466" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a7d0047aa388af084107ef3dee7ec360b60f466" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e1db15d6a8e75a85ce940ea25ae87c75d49c6d8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e1db15d6a8e75a85ce940ea25ae87c75d49c6d8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62e509f754f920188e8885763b1b6f2d6a1fe407" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62e509f754f920188e8885763b1b6f2d6a1fe407" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/672237e9548f2cee244c50e3256fb13f7a875506" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/672237e9548f2cee244c50e3256fb13f7a875506" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/936e9a2eea7cba81f5b1e3d8476325eabdc2dda7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e148f4a00343a78b8dc28000d399120998cb5f64" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e148f4a00343a78b8dc28000d399120998cb5f64" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3d21417dbdb4301800d90a55c6d3f312bf4ad3f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3d21417dbdb4301800d90a55c6d3f312bf4ad3f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5e77398a21c149542e9aaa0ef9d703ce770d723" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5e77398a21c149542e9aaa0ef9d703ce770d723" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f48b2e1deecc2fd7b905f381bd951c7691791c32" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f48b2e1deecc2fd7b905f381bd951c7691791c32" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/4892cbd9b2abae59cc69ddbf3df09e8d4203502e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/4892cbd9b2abae59cc69ddbf3df09e8d4203502e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4fc897fbb2673cffb32995aa4e4ea98db636a209" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4fc897fbb2673cffb32995aa4e4ea98db636a209" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55a9370349bd20edfd6f2e5851a618b66ac00076" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55a9370349bd20edfd6f2e5851a618b66ac00076" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69c7c5f274cf0520325e0014b09dcfc11ed6d9bf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69c7c5f274cf0520325e0014b09dcfc11ed6d9bf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array/nextGreater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array/nextGreater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Practice/GFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice/SortMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Practice/GFG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/queues/MergeKSortedArrayMinheap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queues/MergeKSortedArrayMinheap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/queues/PriorityQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/queues/PriorityQueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/practice.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queues/ArrayContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/queues/ArrayContainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queues/MergeKSortedArrayMinheap$ArrayContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/queues/MergeKSortedArrayMinheap$ArrayContainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queues/MergeKSortedArrayMinheap$Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/queues/MergeKSortedArrayMinheap$Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queues/MergeKSortedArrayMinheap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/queues/MergeKSortedArrayMinheap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/queues/PriorityQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/queues/PriorityQueueDemo.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -77,49 +76,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Java Scratch.GFG">
-    <configuration name="MergeKSortedArrayMinheap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queues.MergeKSortedArrayMinheap" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="queues.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeKSortedArraysDivideAndConquer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.MergeKSortedArraysDivideAndConquer2" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.SortMatrix" />
-      <module name="practice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Java Scratch.Solution">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -133,16 +90,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GFG" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.java" />
+    <configuration name="FindDuplicate" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindDuplicate" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KSortedArray" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KSortedArray" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.java" />
+    <configuration name="GFG" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSort" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch (1)" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -157,19 +135,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SortMatrix" />
-      <item itemvalue="Application.MergeKSortedArraysDivideAndConquer2" />
-      <item itemvalue="Application.MergeKSortedArrayMinheap" />
-      <item itemvalue="Java Scratch.KSortedArray" />
+      <item itemvalue="Java Scratch.MergeSort" />
+      <item itemvalue="Java Scratch.FindDuplicate" />
+      <item itemvalue="Java Scratch.Scratch (1)" />
       <item itemvalue="Java Scratch.GFG" />
+      <item itemvalue="Java Scratch.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Java Scratch.Solution" />
         <item itemvalue="Java Scratch.GFG" />
-        <item itemvalue="Application.MergeKSortedArrayMinheap" />
-        <item itemvalue="Java Scratch.KSortedArray" />
-        <item itemvalue="Application.MergeKSortedArraysDivideAndConquer2" />
-        <item itemvalue="Application.SortMatrix" />
+        <item itemvalue="Java Scratch.Scratch (1)" />
+        <item itemvalue="Java Scratch.FindDuplicate" />
+        <item itemvalue="Java Scratch.MergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -388,11 +366,6 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.java</url>
           <line>25</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
@@ -448,18 +421,53 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/queues/MergeKSortedArrayMinheap.java</url>
-          <line>18</line>
+          <line>20</line>
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/queues/MergeKSortedArrayMinheap.java</url>
-          <line>13</line>
+          <line>15</line>
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/queues/MergeKSortedArrayMinheap.java</url>
-          <line>22</line>
+          <line>24</line>
           <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="109" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

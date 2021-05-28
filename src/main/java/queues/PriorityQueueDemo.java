@@ -17,6 +17,11 @@ public class PriorityQueueDemo {
         pQueue.add(new ArrayContainer(arr1, 0));
         pQueue.add(new ArrayContainer(arr2, 0));
         pQueue.add(new ArrayContainer(arr3, 0));
+
+        ArrayContainer ac = pQueue.poll();
+        // Printing the top element and removing it
+        // from the PriorityQueue container
+        System.out.println(ac.arr[ac.index]);
     }
 }
 
