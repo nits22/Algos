@@ -67,4 +67,16 @@ public class CountMinReversals {
     }
 
 }
-//This code is contributed by Sumit Ghosh
+/*class GFG {
+    public static void main(String[] args)
+    {
+
+        // Get the stream
+        Stream<String> stream = Stream.of("Geeks", "For",
+                "Geeks", "A",
+                "Computer", "Portal");
+
+        // Print the stream
+        stream.forEach(System.out::println);
+    }
+}*/
