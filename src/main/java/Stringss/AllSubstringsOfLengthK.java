@@ -1,12 +1,12 @@
 package Stringss;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class AllSubstringsOfLengthK {
 
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         String str = "leetcode";
         int length = 3;
 
@@ -17,47 +17,34 @@ public class AllSubstringsOfLengthK {
             System.out.println(permutation);
         }
     }
-    private static void printAllKLength(char[] set, int k) {
-        int n = set.length;
-        printAllKLengthRec(set, "", n, k);
-    }
-
-    /* this method print all permutations with same characters of length k */
-    private static void printAllKLengthRec(char[] set, String prefix, int n, int k) {
-
-        if(k == 0){
-            System.out.println(prefix);
-            return;
-        }
-        for(int i = 0; i < n; i++){
-            String newPrefix = prefix + set[i];
-            printAllKLengthRec(set, newPrefix, n, k - 1);
-        }
-    }
 
     public static List<String> findPermutations(String str, int length) {
         List<String> permutations = new ArrayList<>();
-        backtrack(str.toCharArray(), length, new boolean[str.length()], new StringBuilder(), permutations);
+        char ch[] = str.toCharArray();
+        Arrays.sort(ch);
+        backtrack(ch, new boolean[str.length()], new StringBuilder(), permutations, length);
         return permutations;
     }
 
-    private static void backtrack(char[] str, int length, boolean[] used, StringBuilder current, List<String> permutations) {
-        if (current.length() == length) {
-            permutations.add(current.toString());
+    private static void backtrack(char[] nums, boolean[] used, StringBuilder curr, List<String> res, int k) {
+        // If the current permutation is complete, add it to the results list
+        if (curr.length() == k) {
+            res.add(curr.toString());
             return;
         }
 
-        for (int i = 0; i < str.length; i++) {
-            if (used[i])
+        // Loop through the indices of the input array
+        for (int i = 0; i < nums.length; i++) {
+            // Skip if the number has already been used or if it's a duplicate that has already been used
+            if (used[i] || (i > 0 && nums[i] == nums[i - 1] && !used[i - 1])) {
                 continue;
-
+            }
+            // Mark the current number as used, add it to the current permutation list
             used[i] = true;
-            current.append(str[i]);
-
-            backtrack(str, length, used, current, permutations);
-
+            curr.append(nums[i]);
+            backtrack(nums, used, curr, res, k);
             used[i] = false;
-            current.deleteCharAt(current.length() - 1);
+            curr.deleteCharAt(curr.length() - 1);
         }
     }
 }

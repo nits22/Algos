@@ -36,7 +36,7 @@ public class MergeKSortedArraysDivideAndConquer2 {
         Node list2 = new Node(1);
         list2.next = new Node(31);
         list2.next.next = new Node(41);
-        list2.next.next = new Node(60);
+        list2.next.next.next = new Node(60);
 
 
         Node[] newlist = {list, list1, list2};
@@ -44,7 +44,7 @@ public class MergeKSortedArraysDivideAndConquer2 {
         Node node = mergeKList(newlist);
 
         while (node != null){
-            System.out.println(node.data);
+            System.out.print(node.data + " ");
             node = node.next;
         }
     }
